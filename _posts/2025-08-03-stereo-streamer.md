@@ -20,7 +20,7 @@ Imagine: it's Sunday, 1 PM, you invited some friends over to have lunch together
 a Bluetooth speaker. They're cheap (most of them) and the problem is basically solved.
 
 ### a related non-problem
-your whole phone audio is not everyone real estate. That embarrassing audio form
+your whole phone audio is now everyone real estate. That embarrassing audio form
 your imaginary girlfriend? you cannot hear it (even though it's just in your
 head). The story with a 2005 song at full volume? forget that. Your phone is not
 yours anymore.
