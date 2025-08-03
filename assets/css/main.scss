@@ -4,8 +4,8 @@
 @import "no-style-please";
 
 figcaption {
-    text-align: center;
-    font-style: italic;
+  text-align: center;
+  font-style: italic;
 }
 
 body {
@@ -13,7 +13,14 @@ body {
   line-height: 1.6em;
 }
 
-header { text-align: center; }
+header {
+  text-align: center;
+}
+
+footer {
+  margin-top: 100px;
+  text-align: center;
+}
 
 ul.postList {
   width: fit-content;
