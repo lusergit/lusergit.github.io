@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Luca. I'm an italian backend developer, currently working in the `elixir` ecosystem, but considering myself an embedded-curious.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## ヽ(°〇°)ﾉ education years
+I graduated from the University of Padova (here's their [CMS-managed website](https://www.unipd.it/)) in 2024, with a master thesis in abstract interpretation, with a focus on termination of the interpreter depending on the features of the abstract domain ([here the source](https://github.com/lusergit/master-thesis)).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## _〆(・ω・。) retirement
+Unfortunately to retire you first need to work, so I'm at step 1 of this journey. I now work as a backend engineer (yes, information duplication) in the elixir ecosystem, spawning servers and looking at supervision trees to handle thousands of devices form all around the globe with virtually no downtime and eventual consistency.

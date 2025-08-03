@@ -5,6 +5,7 @@ date:   2025-08-02 18:53:19 +0200
 categories: wip
 ---
 
+##  ♪(/_ _ )/♪
 This is not an interesting story, it's rather a story of how over-complicating things and find solution to non-problems sometimes is also rewarding.
 
 I recently bought a stereo from a flea market nearby. It was incredibly cheap and I bought it mostly for its aesthetic. It's an old [Sony FH-414](https://www.reddit.com/r/vintageaudio/comments/wgtrlr/is_the_fh414_any_good_i_was_browsing_my_local/) (<- link to a reddit post saying that is actually not that good), which serves its purpose: look vintage. The sound is not that great and the tape player/recorder break (which seems to be a common problem of this model).
@@ -13,7 +14,7 @@ I also happen to have a spare [Raspberry Pi 3b](https://www.raspberrypi.com/prod
 
 You can see how by easily combining these two information I came up with a very original idea: making the RPi a music streamer with the stereo.
 
-## the problem
+## ~(>_<~) the problem
 Imagine: it's Sunday, 1 PM, you invited some friends over to have lunch together. Of course you want to put some music on to facilitate the conversation, not too loud, just enough to be an enjoyable background. 
 
 ### an easy solution
@@ -25,7 +26,7 @@ your imaginary girlfriend? you cannot hear it (even though it's just in your
 head). The story with a 2005 song at full volume? forget that. Your phone is not
 yours anymore.
 
-## an over-engineered solution
+## __φ(．．) an over-engineered solution
 You see where this is going. The RPi can become a streamer, just plug its aux output into the stereo. You then just need two tools to make everything work
 - [`spotifyd`](https://github.com/Spotifyd/spotifyd) :: a spotify daemon. It sits in background and is available from your spotify as a separate device
 - [`systemd`](https://systemd.io/) :: the goat. the service manager of your favorite distro. If you know it you love it, if you don't love it you're too expert for this story what are you doing here? Also, can you get in touch? I have some recurring problems running `hurd` thank you.
