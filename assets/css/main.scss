@@ -2,3 +2,32 @@
 ---
 
 @import "no-style-please";
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+  font-size: 19px;
+  line-height: 1.6em;
+}
+
+header { text-align: center; }
+
+ul.postList {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0;
+}
+
+ul.postList li {
+  display: flex;
+  gap: 16px;
+}
+
+ul.postList li span {
+  width: 80px;
+  text-align: right;
+  flex-shrink: 0;
+}

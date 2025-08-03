@@ -8,7 +8,11 @@ categories: wip
 ##  ♪(/_ _ )/♪
 This is not an interesting story, it's rather a story of how over-complicating things and find solution to non-problems sometimes is also rewarding.
 
-I recently bought a stereo from a flea market nearby. It was incredibly cheap and I bought it mostly for its aesthetic. It's an old [Sony FH-414](https://www.reddit.com/r/vintageaudio/comments/wgtrlr/is_the_fh414_any_good_i_was_browsing_my_local/) (<- link to a reddit post saying that is actually not that good), which serves its purpose: look vintage. The sound is not that great and the tape player/recorder break (which seems to be a common problem of this model).
+I recently bought a stereo from a flea market nearby. It was incredibly cheap and I bought it mostly for its aesthetic. It's an old [Sony FH-414](https://www.reddit.com/r/vintageaudio/comments/wgtrlr/is_the_fh414_any_good_i_was_browsing_my_local/) (<- link to a reddit post saying that is actually not that good), 
+
+{% include image.html url='/assets/images/Sony_FH-414.png' description='Sony FH-414' source='hifi-wiki' source_url='https://www.hifi-wiki.de/index.php/Sony_FH-414' %}
+
+which serves its purpose: look vintage. The sound is not that great and the tape player/recorder break (which seems to be a common problem of this model).
 
 I also happen to have a spare [Raspberry Pi 3b](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/). I used to leave it on to stream legitimately downloaded content in my LAN trough _dlna_ (all hail our lord and savior (formerly) [minidlna](https://wiki.archlinux.org/title/ReadyMedia)) but nowadays it's just an overpriced paperweight.
 
@@ -18,7 +22,7 @@ You can see how by easily combining these two information I came up with a very 
 Imagine: it's Sunday, 1 PM, you invited some friends over to have lunch together. Of course you want to put some music on to facilitate the conversation, not too loud, just enough to be an enjoyable background. 
 
 ### an easy solution
-a Bluetooth speaker. They're cheap (most of them) and the problem is basically solved.
+a Bluetooth speaker. They're cheap (most of them) and the problem is basically solved. 
 
 ### a related non-problem
 your whole phone audio is now everyone real estate. That embarrassing audio form
