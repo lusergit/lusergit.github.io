@@ -76,7 +76,5 @@ systemctl --user enable spotifyd.daemon
 ### Fifth: let there be rock
 The daemon is ready, the account is logged in, everything works, the stereo plays (the cassette was not working, this seemed appropriate)
 
-[Thrash metal cassette - Dinaosaur Pile-up](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu?si=2d175e0e0d404e77)
-
 <!-- This is not working, spotify downtime? -->
-{% include thrash_metal_cassette.html %}
+{% include spotify.html src='"https://open.spotify.com/embed/track/0RhYWcRxUljBv363WhAbtu?utm_source=generator"' %}
