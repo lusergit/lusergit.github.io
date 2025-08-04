@@ -71,10 +71,10 @@ systemctl --user enable spotifyd.daemon
 ```
 
 ### Fourth: let there be problems
-`spotifyd` uses a zeroconf approach on authentication, requiring a UI to open a browser and logging into your spotify premium account. However I did all of this tough ssh, so ???? TODO
+`spotifyd` uses a zeroconf approach on authentication, requiring a UI to open a browser and logging into your spotify premium account. However I did all of this tough ssh, so ????  what I needed was [`zeroconf` condfiguration](https://docs.spotifyd.rs/configuration/auth.html#discovery-on-lan), this was a matter of running `spotifyd auth`, from an active spotify client select the raspberry pi in the `devices` section and finally profit.
 
 ### Fifth: let there be rock
 The daemon is ready, the account is logged in, everything works, the stereo plays (the cassette was not working, this seemed appropriate)
 
 <!-- This is not working, spotify downtime? -->
-{% include spotify.html src='"https://open.spotify.com/embed/track/0RhYWcRxUljBv363WhAbtu?utm_source=generator"' %}
+{% include spotify.html src='https://open.spotify.com/embed/track/0RhYWcRxUljBv363WhAbtu?utm_source=generator' %}
